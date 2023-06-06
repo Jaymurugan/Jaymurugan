@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 I'm Jay from Arizona, I'm a Computer Information Systems major with internship experience in backend engineering, object-oriented programming, database management, and cloud computing. 
 
 

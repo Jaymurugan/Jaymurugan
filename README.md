@@ -1,5 +1,5 @@
 # About Me:
-I'm Jay from Arizona, I'm a Computer Information Systems major with internship and coding experience in backend engineering, object-oriented programming, database management, and Machine Learning. <br>
+I'm Jay from Arizona, I'm a Computer and Information Sciences major with internship and coding experience in backend engineering, object-oriented programming, database management, and Machine Learning. <br>
 
 
 ## 🌐 Socials:

@@ -6,6 +6,19 @@ I'm Jay from Arizona, I'm a Computer and Information Sciences major with interns
 </p>
 <br/>
 
+
+🎓 Pursuing: BS in Computer and Information Science @ ASU | Graduating December 2024
+
+💼 Previous Roles:
+
+    Software Engineer Intern @ Cephalobits
+    Software Engineer Intern @ Invitty Cognitive Solutions
+    Research Assistant @ Arizona State University
+
+📬 Contact Me: Jaymurugan.m@gmail.com
+
+🎉 Fun Fact: I’m a huge MMA fan! 🥋💥
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/Jaymurugan4/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jigneshmurugan) 
 

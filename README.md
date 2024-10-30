@@ -2,7 +2,7 @@
 I'm Jay from Arizona, I'm a Computer and Information Sciences major with internship and coding experience in backend engineering, object-oriented programming, database management, and machine learning. 
 
 <p align="center">
-  <img src="[https://aditikhome.files.wordpress.com/2019/02/0nsgxxd0kwn3qt2ks.gif](https://www.deviantart.com/pixeljeff/art/Coding-990517671)" />
+  <img src="<iframe src="https://giphy.com/embed/HzPtbOKyBoBFsK4hyc" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fomoduck-duck-fomo-forever-squad-HzPtbOKyBoBFsK4hyc">via GIPHY</a></p>" />
   <img src="" />
 </p>
 <br/>

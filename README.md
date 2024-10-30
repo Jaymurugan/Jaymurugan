@@ -2,10 +2,9 @@
 I'm Jay from Arizona, I'm a Computer and Information Sciences major with internship and coding experience in backend engineering, object-oriented programming, database management, and machine learning. 
 
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbms3MjNvMG55cWRtc2hucGd5M2N3cjB6OXFmY2F3Y2F4eHE1aXBuNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8bE0EERrvXkq5S9BCa/giphy.gif" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbms3MjNvMG55cWRtc2hucGd5M2N3cjB6OXFmY2F3Y2F4eHE1aXBuNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8bE0EERrvXkq5S9BCa/giphy.gif" width="300" height="auto" />
 </p>
 <br/>
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/Jaymurugan4/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jigneshmurugan) 

@@ -6,6 +6,14 @@ I'm Jay from Arizona, I'm a Computer and Information Sciences major with interns
 </p>
 <br/>
 
+---
+# 📢 Important Notice
+
+**All my projects and repositories have been made private due to unusual cloning activities that suggested automated bot behavior.**  
+If you would like to review my work, **please feel free to email me at `Jaymurugan.m@gmail.com` to request access.**  I would be happy to provide access upon request!
+
+---
+
 
 🎓 Pursuing: BS in Computer and Information Science @ ASU | Graduating December 2024
 
